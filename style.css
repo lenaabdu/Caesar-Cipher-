@@ -1,0 +1,36 @@
+ body{
+       background-color: black;
+     }
+      input{
+        display:block;
+        padding: 16px;
+        margin: 5px
+
+      }
+      button{   display:block;
+            padding: 15px;
+              width: 176px;
+              margin: 5px}
+        .encrypt{
+          background-color:#5db4e6;
+
+        }
+        .decrypt{
+          background-color:#d04f4f;
+        }
+        #keyp{
+          margin-top: 100px;
+          margin-right:10px; 
+          font-size: 30px;
+          color:#b72020;
+        }
+
+     #plaintextp 
+
+     {   
+
+      margin-top :10px;
+      margin-right :10px;
+      font-size: 30px;
+      color:#b72020;
+        }
