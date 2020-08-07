@@ -4,10 +4,25 @@
       input{
         display:block;
         padding: 16px;
-        margin: 5px
+        margin: 5px;
 
       }
-      button{   display:block;
+     #plaintext{
+      width: 60%;
+        height: 50%;
+        margin-left 20px;
+        align-items: center;
+
+     }
+      #key{
+      width: 60%;
+        height: 50%;
+        margin-left 20px;
+        align-items: center;
+
+     }
+      button{  
+       display:block;
             padding: 15px;
               width: 176px;
               margin: 5px}
