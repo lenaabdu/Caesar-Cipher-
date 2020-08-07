@@ -1,4 +1,4 @@
-function encrypt(){
+ function encrypt(){
             //Key
             var key=document.getElementById('key');
             var keyValue=parseInt(key.value);
